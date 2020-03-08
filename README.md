@@ -1,3 +1,5 @@
 # Drawing on the Web - Assignment 4
 
-Check out my [project](https://i6.cims.nyu.edu/~rma453/drawing/assignment1/collage.html)
+Original [project](https://i6.cims.nyu.edu/~rma453/drawing/assignment1/collage.html) by Rena Auerbach.
+
+Original [repository](https://github.com/renaauerbach/drawing-1).
